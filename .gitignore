@@ -48,3 +48,10 @@ Thumbs.db
 *.mov
 *.wmv
 
+# app
+*.csv
+*.json
+venv/
+
+data/
+
